@@ -1,0 +1,24 @@
+{
+  "name": "canitbeawebsite",
+  "version": "1.0.0",
+  "description": "Website for projects which somehow have become unnecessary websites",
+  "homepage": "https://github.com/frocket-exe/canitbeawebsite#readme",
+  "bugs": {
+    "url": "https://github.com/frocket-exe/canitbeawebsite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frocket-exe/canitbeawebsite.git"
+  },
+  "license": "ISC",
+  "author": "frocket-exe",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
